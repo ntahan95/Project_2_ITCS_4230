@@ -1,7 +1,14 @@
 {
   "resources": [
+    {"id":{"name":"Foyer","path":"rooms/Foyer/Foyer.yy",},"order":3,},
+    {"id":{"name":"spr_treasureRoom","path":"sprites/spr_treasureRoom/spr_treasureRoom.yy",},"order":3,},
+    {"id":{"name":"spr_armory","path":"sprites/spr_armory/spr_armory.yy",},"order":1,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":15,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"spr_foyer","path":"sprites/spr_foyer/spr_foyer.yy",},"order":2,},
+    {"id":{"name":"Armory","path":"rooms/Armory/Armory.yy",},"order":2,},
+    {"id":{"name":"spr_dining","path":"sprites/spr_dining/spr_dining.yy",},"order":0,},
+    {"id":{"name":"Dining","path":"rooms/Dining/Dining.yy",},"order":1,},
+    {"id":{"name":"Treasure_Room","path":"rooms/Treasure_Room/Treasure_Room.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -17,7 +24,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Dining","path":"rooms/Dining/Dining.yy",},},
+    {"roomId":{"name":"Treasure_Room","path":"rooms/Treasure_Room/Treasure_Room.yy",},},
+    {"roomId":{"name":"Armory","path":"rooms/Armory/Armory.yy",},},
+    {"roomId":{"name":"Foyer","path":"rooms/Foyer/Foyer.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
