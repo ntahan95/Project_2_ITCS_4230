@@ -2,10 +2,14 @@
   "resources": [
     {"id":{"name":"Foyer","path":"rooms/Foyer/Foyer.yy",},"order":3,},
     {"id":{"name":"spr_treasureRoom","path":"sprites/spr_treasureRoom/spr_treasureRoom.yy",},"order":3,},
+    {"id":{"name":"spr_previousRoom","path":"sprites/spr_previousRoom/spr_previousRoom.yy",},"order":5,},
+    {"id":{"name":"spr_nextRoom","path":"sprites/spr_nextRoom/spr_nextRoom.yy",},"order":4,},
     {"id":{"name":"spr_armory","path":"sprites/spr_armory/spr_armory.yy",},"order":1,},
     {"id":{"name":"spr_foyer","path":"sprites/spr_foyer/spr_foyer.yy",},"order":2,},
     {"id":{"name":"Armory","path":"rooms/Armory/Armory.yy",},"order":2,},
     {"id":{"name":"spr_dining","path":"sprites/spr_dining/spr_dining.yy",},"order":0,},
+    {"id":{"name":"obj_previousRoom","path":"objects/obj_previousRoom/obj_previousRoom.yy",},"order":1,},
+    {"id":{"name":"obj_nextRoom","path":"objects/obj_nextRoom/obj_nextRoom.yy",},"order":0,},
     {"id":{"name":"Dining","path":"rooms/Dining/Dining.yy",},"order":1,},
     {"id":{"name":"Treasure_Room","path":"rooms/Treasure_Room/Treasure_Room.yy",},"order":0,},
   ],
@@ -23,10 +27,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Dining","path":"rooms/Dining/Dining.yy",},},
-    {"roomId":{"name":"Treasure_Room","path":"rooms/Treasure_Room/Treasure_Room.yy",},},
-    {"roomId":{"name":"Armory","path":"rooms/Armory/Armory.yy",},},
     {"roomId":{"name":"Foyer","path":"rooms/Foyer/Foyer.yy",},},
+    {"roomId":{"name":"Treasure_Room","path":"rooms/Treasure_Room/Treasure_Room.yy",},},
+    {"roomId":{"name":"Dining","path":"rooms/Dining/Dining.yy",},},
+    {"roomId":{"name":"Armory","path":"rooms/Armory/Armory.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
