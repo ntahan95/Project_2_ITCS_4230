@@ -29,6 +29,7 @@
     {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"This is a sharp talon of a demon, looks like it can be used for jabbing into objects and can act as a wedge in a pinch.\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"inventory_x","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"64","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"inventory_y","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"717","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"itemName","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"claw","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
