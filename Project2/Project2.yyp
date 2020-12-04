@@ -3,6 +3,8 @@
     {"id":{"name":"spr_turkey","path":"sprites/spr_turkey/spr_turkey.yy",},"order":6,},
     {"id":{"name":"Foyer","path":"rooms/Foyer/Foyer.yy",},"order":3,},
     {"id":{"name":"spr_treasureRoom","path":"sprites/spr_treasureRoom/spr_treasureRoom.yy",},"order":3,},
+    {"id":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"order":4,},
+    {"id":{"name":"obj_turkey","path":"objects/obj_turkey/obj_turkey.yy",},"order":5,},
     {"id":{"name":"spr_previousRoom","path":"sprites/spr_previousRoom/spr_previousRoom.yy",},"order":5,},
     {"id":{"name":"spr_nextRoom","path":"sprites/spr_nextRoom/spr_nextRoom.yy",},"order":4,},
     {"id":{"name":"spr_armory","path":"sprites/spr_armory/spr_armory.yy",},"order":1,},
