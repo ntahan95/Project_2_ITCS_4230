@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_eye",
-    "path": "sprites/spr_eye/spr_eye.yy",
+    "name": "spr_stew",
+    "path": "sprites/spr_stew/spr_stew.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,17 +26,17 @@
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"itemName","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"\"eye\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"This is a cyclopse eye.\\nIt still wont stop crying!\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"Change this description: mystery stew phase 1\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"inventory_y","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"717","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"inventory_x","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"240","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"inventory_x","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"300","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"itemName","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"\"stew0\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_eye",
+  "name": "obj_mystery_stew",
   "tags": [],
   "resourceType": "GMObject",
 }
