@@ -30,10 +30,7 @@
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_recipe_book","path":"objects/obj_recipe_book/obj_recipe_book.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"Seeking","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"obj_claw","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"Creates","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"obj_mage_emblem","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",

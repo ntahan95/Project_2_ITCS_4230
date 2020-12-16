@@ -23,11 +23,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_pork","path":"objects/obj_pork/obj_pork.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"Creates","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"obj_pork_inv","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"changes","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"Success_Message","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"\"You pick up the pork hock.\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
