@@ -58,7 +58,6 @@
     {"id":{"name":"obj_previousRoom","path":"objects/obj_previousRoom/obj_previousRoom.yy",},"order":1,},
     {"id":{"name":"obj_warrior_emblem","path":"objects/obj_warrior_emblem/obj_warrior_emblem.yy",},"order":26,},
     {"id":{"name":"spr_stew","path":"sprites/spr_stew/spr_stew.yy",},"order":20,},
-    {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":2,},
     {"id":{"name":"PotionInCauldron","path":"scripts/PotionInCauldron/PotionInCauldron.yy",},"order":3,},
     {"id":{"name":"obj_nextRoom","path":"objects/obj_nextRoom/obj_nextRoom.yy",},"order":0,},
     {"id":{"name":"obj_init","path":"objects/obj_init/obj_init.yy",},"order":28,},
