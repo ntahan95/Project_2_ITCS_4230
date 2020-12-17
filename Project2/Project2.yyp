@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"obj_archer_emblem","path":"objects/obj_archer_emblem/obj_archer_emblem.yy",},"order":20,},
+    {"id":{"name":"obj_archer","path":"objects/obj_archer/obj_archer.yy",},"order":20,},
     {"id":{"name":"spr_noclaw","path":"sprites/spr_noclaw/spr_noclaw.yy",},"order":6,},
     {"id":{"name":"spr_mage_emblem","path":"sprites/spr_mage_emblem/spr_mage_emblem.yy",},"order":10,},
     {"id":{"name":"obj_potion_inv","path":"objects/obj_potion_inv/obj_potion_inv.yy",},"order":17,},

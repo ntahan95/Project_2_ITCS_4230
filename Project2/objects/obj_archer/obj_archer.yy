@@ -36,7 +36,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_archer_emblem",
+  "name": "obj_archer",
   "tags": [],
   "resourceType": "GMObject",
 }
