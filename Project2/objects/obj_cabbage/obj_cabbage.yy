@@ -33,8 +33,8 @@
     {"propertyId":{"name":"itemName","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"\"cabbage\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "category2",
+    "path": "folders/Objects/category2.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_cabbage",

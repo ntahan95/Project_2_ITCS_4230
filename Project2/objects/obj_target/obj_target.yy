@@ -36,8 +36,8 @@
     {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"A round target that is out of reach of most items.\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "category1",
+    "path": "folders/Objects/category1.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_target",

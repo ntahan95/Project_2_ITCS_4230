@@ -34,8 +34,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "object parents",
+    "path": "folders/Objects/object parents.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_progress",

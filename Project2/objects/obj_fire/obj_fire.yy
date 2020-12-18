@@ -37,8 +37,8 @@
     {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"Ouch, fire hot, fire bad./nNeed something to douse the fire.\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "category2",
+    "path": "folders/Objects/category2.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_fire",

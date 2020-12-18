@@ -35,8 +35,8 @@
     {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"This is a glorious pile of riches, everytime you try to pick some up it seems to slip out of your fingers.\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "emblems",
+    "path": "folders/Objects/emblems.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_gold",

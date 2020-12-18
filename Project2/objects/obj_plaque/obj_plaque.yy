@@ -35,8 +35,8 @@
     {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"The warrior emblem is stuck on a mantle, maybe if you had something to wedge it out.\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "emblems",
+    "path": "folders/Objects/emblems.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_plaque",

@@ -35,8 +35,8 @@
     {"propertyId":{"name":"Success_Message","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"\"You pull the claw out of the turkey and obtain the Demon Claw.\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "category1",
+    "path": "folders/Objects/category1.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_turkey",

@@ -32,8 +32,8 @@
     {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"It's a Warrior's Emblem, it's making you feel stronger already!\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "emblems",
+    "path": "folders/Objects/emblems.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_warrior_emblem",

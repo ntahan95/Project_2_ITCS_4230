@@ -1,8 +1,11 @@
-/// @DnDAction : YoYo Games.Common.Function
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 40CF4515
-/// @DnDComment : Script assets have changed$(13_10)for v2.3.0 see $(13_10)https://help.yoyogames.com/hc/en-us/articles/360005277377 $(13_10)for more information
-/// @DnDArgument : "funcName" "movedown"
-function movedown(){
-
+/// @DnDHash : 714DD5C4
+/// @DnDArgument : "code" "function movedown(name){$(13_10)	switch(name){$(13_10)		case "Dragon":$(13_10)		room_goto(Foyer)$(13_10)		break;$(13_10)	}$(13_10)}"
+function movedown(name){
+	switch(name){
+		case "Dragon":
+		room_goto(Foyer)
+		break;
+	}
 }

@@ -38,8 +38,8 @@
     {"propertyId":{"name":"changes","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "category2",
+    "path": "folders/Objects/category2.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_chest",
