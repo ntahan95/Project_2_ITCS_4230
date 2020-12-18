@@ -1,1 +1,1 @@
-show_message("BAD END!");
+room_goto(ending1);
