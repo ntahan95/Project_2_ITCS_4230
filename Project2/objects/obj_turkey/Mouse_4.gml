@@ -1,9 +1,41 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 49BE5411
-/// @DnDArgument : "code" "show_message("You pull the claw sticking out of the turkey, it's a demon claw!");$(13_10)$(13_10)instance_create_layer(x,y,"instances",obj_noclaw);$(13_10)$(13_10)instance_change(obj_claw, true);"
-show_message("You pull the claw sticking out of the turkey, it's a demon claw!");
+//code for item interactions
+//seeking is the item needed to interact with the object
+//changes is whether the item changes instance into the new object
+//creates is the item that the field object creates
+//set seeking to 0 to have clicking on the item successfully interact
 
-instance_create_layer(x,y,"instances",obj_noclaw);
 
-instance_change(obj_claw, true);
+if Seeking == 0
+{
+	if obj_progress.claw == false
+	{
+		if changes == true
+		{
+			show_message(Success_Message);
+			instance_change(Creates, true);
+		}
+		else {
+			show_message(Success_Message);
+			image_index = 2;
+			instance_create_layer(x,y,"Inventory",Creates);
+		}
+	}
+}
+else
+{
+	if instance_exists(Seeking)
+	{
+		if Seeking.holding == true
+		{
+			show_message(Success_Message);
+			if changes == true
+			{
+				instance_change(Creates, true);
+			}
+			else {
+				image_index = 2;
+				instance_create_layer(x,y,"Inventory",Creates);
+			}
+		}
+	}
+}

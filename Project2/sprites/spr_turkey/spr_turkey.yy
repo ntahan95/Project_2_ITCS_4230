@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 21,
-  "bbox_right": 47,
-  "bbox_top": 20,
-  "bbox_bottom": 37,
+  "bbox_left": 20,
+  "bbox_right": 346,
+  "bbox_top": 68,
+  "bbox_bottom": 292,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 360,
+  "height": 360,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4d000989-a31a-48a5-8b64-cb087d00bf60","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4d000989-a31a-48a5-8b64-cb087d00bf60","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":{"name":"b3b116dd-4cd8-4d7d-859b-ee1942378ede","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_turkey","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"4d000989-a31a-48a5-8b64-cb087d00bf60","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"351b1d3a-1bf2-4b42-87cf-fb16e256ab1a","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"351b1d3a-1bf2-4b42-87cf-fb16e256ab1a","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":{"name":"b3b116dd-4cd8-4d7d-859b-ee1942378ede","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_turkey","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"351b1d3a-1bf2-4b42-87cf-fb16e256ab1a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d574efb8-93a8-49e2-bc9e-5f7b8b0d15c0","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d574efb8-93a8-49e2-bc9e-5f7b8b0d15c0","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":{"name":"e747064f-8c17-461a-a096-85110c2c2b1b","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_turkey","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"d574efb8-93a8-49e2-bc9e-5f7b8b0d15c0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"66fb6f2d-9df0-4fa6-9c34-283d70b9a8d1","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"66fb6f2d-9df0-4fa6-9c34-283d70b9a8d1","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":{"name":"e747064f-8c17-461a-a096-85110c2c2b1b","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_turkey","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"66fb6f2d-9df0-4fa6-9c34-283d70b9a8d1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e2285d15-bac8-4757-9af6-940064bb0979","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e2285d15-bac8-4757-9af6-940064bb0979","path":"sprites/spr_turkey/spr_turkey.yy",},"LayerId":{"name":"e747064f-8c17-461a-a096-85110c2c2b1b","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_turkey","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","name":"e2285d15-bac8-4757-9af6-940064bb0979","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_turkey","path":"sprites/spr_turkey/spr_turkey.yy",},
@@ -39,13 +42,14 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 2.0,
+    "length": 3.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b524caed-20ae-469e-874b-80867f06a41d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4d000989-a31a-48a5-8b64-cb087d00bf60","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"c5a39b6c-d2f0-4cbf-affd-a893fc13fe26","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"351b1d3a-1bf2-4b42-87cf-fb16e256ab1a","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"567ca16a-47d3-4d03-afd4-584fd3f7fc25","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d574efb8-93a8-49e2-bc9e-5f7b8b0d15c0","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cb681e1d-c87c-48f2-ba9b-00e13a078661","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"66fb6f2d-9df0-4fa6-9c34-283d70b9a8d1","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7f43ddc3-51c6-4f6d-a50e-b38ada1eb09d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e2285d15-bac8-4757-9af6-940064bb0979","path":"sprites/spr_turkey/spr_turkey.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,8 +62,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 32,
-    "yorigin": 32,
+    "xorigin": 180,
+    "yorigin": 180,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_turkey","path":"sprites/spr_turkey/spr_turkey.yy",},
@@ -69,7 +73,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b3b116dd-4cd8-4d7d-859b-ee1942378ede","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e747064f-8c17-461a-a096-85110c2c2b1b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
