@@ -31,8 +31,8 @@
   ],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"this is a chest description\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"Success_Message","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"\"With your immense strength you open the chest and find a cabbage...\\nhuh, weird place to put it\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"A chest that won't budge, perhaps you need some assistance in opening it.\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"Success_Message","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"\"With your immense strength you open the chest and find a cabbage...  Huh, weird place to put it\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"Seeking","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"obj_warrior_emblem","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"Creates","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"obj_cabbage","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"changes","path":"objects/obj_field/obj_field.yy",},"objectId":{"name":"obj_field","path":"objects/obj_field/obj_field.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},

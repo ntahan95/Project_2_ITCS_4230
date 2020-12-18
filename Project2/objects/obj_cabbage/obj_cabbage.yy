@@ -31,6 +31,7 @@
     {"propertyId":{"name":"inventory_x","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"700","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"inventory_y","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"1070","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"itemName","path":"objects/obj_inventory/obj_inventory.yy",},"objectId":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"value":"\"cabbage\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"description","path":"objects/obj_item/obj_item.yy",},"objectId":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"value":"\"A head of cabbage. You could probably make something better with this.\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "category2",
