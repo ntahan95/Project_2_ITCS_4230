@@ -1,2 +1,2 @@
 if obj_progress.stew = true
-instance_destroy();
+image_index = 2;

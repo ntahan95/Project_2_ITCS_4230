@@ -25,8 +25,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_recipe_book","path":"objects/obj_recipe_book/obj_recipe_book.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":10,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_recipe_book","path":"objects/obj_recipe_book/obj_recipe_book.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":11,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_recipe_book","path":"objects/obj_recipe_book/obj_recipe_book.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_recipe_book","path":"objects/obj_recipe_book/obj_recipe_book.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],

@@ -1,2 +1,2 @@
-if image_index == 0
+if obj_progress.cabbage == false
 image_index = 1;
