@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_bg1.mp3",
-  "duration": 145.63765,
+  "soundFile": "snd_bg1.ogg",
+  "duration": 48.8800125,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
