@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_bg_title.wav",
-  "duration": 21.945612,
+  "duration": 80.75466,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
